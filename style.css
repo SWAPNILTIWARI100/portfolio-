@@ -284,7 +284,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://lh3.googleusercontent.com/r9ank4DUmWrgZ4bkc5Dm1O0xY2lnTSUH-EcbhZVnt0YIOsMWHXqr9vP1OzWg93GEnlsYap90UKGsZKKn_OX3BPTn27nGbACiTVZvZNgPd5UkIZ9a7l4FqRZRS2Y2a3HlNekwWMgeUKxzlJr7M0BIbh94mvt1v6KtxGI2isZOdMqOBFjLweK2sPa5ic3E3Nru_J_l2Bx0RuU0CGVrpeX8yIKFurd538VktW3CoChYUB_Lq1qrAIVK99wQ65Y9Zm25n8mJUEejR1VdvZ9FaqeTyWl2BQfQZ0g_laCWZKAxA73eFjydE_xQbNwJrNVef3gM-ueD9Bnb4QxSIxsiSsHFs855MBnD1fIr5mHpB59rGKXFb35s10oaY2dgwqc0jjUErJFpUAeaZk-yw5Pmnhkejme-D-oTIYANibcin9Uf6-XbWQas69jTygsvfyTfWN4Of0hr0pWGh3mKSm-dMrMbuG7vLkiGhqIAXu0ZIdVZD512Odq6io4E0THgH1HqGDFUG7GNjE1Y3NG4YaXOC08-T5E7c70fkqwHwX7Xc1LKt_U9QjEqtKvLmQQceZH4nzkcvn8imbWAefXQLSxNTGM7VlPjWVlpBiT0PbEUargtROZRwHh4kHB7CyZ7xcH1ZUMJGDGoHiDASmnEYbG0F1pVKSSU2g3x6cwW76PH9Tb4Q1RlK0h8qeIn_uh_CeC7rlwtnb0rInpsheSaNwFPvMH9akM8yk0pEVErTja1l1KETpAlONEAbVTpnqPwHK4=w1656-h932-no?authuser=0") top right no-repeat;
+  background-image: url(img/klh.jpeg);
   background-size: cover;
   position: relative;
 }
@@ -304,6 +304,7 @@ h6 {
   left: 0;
   right: 0;
 }
+
 
 #hero h1 {
   margin: 0;
@@ -779,6 +780,27 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
+}
+
+
+.ccc{
+  width: 500px;
+  height: 281px;
+
+
+
+}
+
+.lk{
+  text-align: center;
+}
+.kl{
+  padding-top: 50px;
+  width: 30%;
+}
+.cccf{
+  width: 300px;
+  height: 281px;
 }
 
 .portfolio-details .portfolio-info ul {
